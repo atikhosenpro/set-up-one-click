@@ -1,6 +1,6 @@
 === One Click Start ===
 Contributors: Atik Hosen
-Donate link: https://atikhosenpro.great-site.net/donet
+Donate link: https://atikhosenpro.great-site.net/donate
 Tags: one click start, one click setup, wordpress automation, developer setup, bulk install
 Requires at least: 5.8
 Tested up to: 6.8
