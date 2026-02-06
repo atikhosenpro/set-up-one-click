@@ -62,7 +62,7 @@ Lightweight, modern, and built for professionals who value **speed, consistency,
 If this plugin saves your time, consider supporting **Atik Hosen**:
 
 👉 Buy Me a Coffee:  
-https://atikhosenpro.great-site.net/donet
+https://atikhosenpro.great-site.net/donate
 
 Your support helps maintain updates, new features, and long-term improvements.
 
